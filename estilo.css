@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: blueviolet;
+    margin: 0%;
+    padding: 40px;
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: gold;
+    font-size: 18px;
+}
